@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>JUJU Margin Notes</title>
+        <link>https://github.com/mikeparsonstv-rgb/JUJU-Margin-Notes</link>
+        <description>Updates for JUJU Margin Notes. Each release's item is added by scripts/release.sh.</description>
+        <language>en</language>
+    </channel>
+</rss>
